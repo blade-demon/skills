@@ -3,7 +3,7 @@
 Install via npm:
 
 ```bash
-npx skills add @blade-demon/skills
+npx skills add blade-demon/skills
 ```
 
 Install from GitHub:
