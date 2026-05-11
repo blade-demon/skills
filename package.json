@@ -1,0 +1,11 @@
+{
+  "name": "@blade-demon/skills",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Reusable agent skills by blade-demons",
+  "license": "MIT",
+  "files": [
+    "skills",
+    "README.md"
+  ]
+}
